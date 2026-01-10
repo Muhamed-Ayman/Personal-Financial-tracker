@@ -45,6 +45,7 @@ Monetra is a desktop financial tracking application built with Python that helps
   - And more...
 - **Date Tracking** - Automatic timestamp for all transactions
 - **Amount Validation** - Input validation for monetary values
+<img width="1718" height="980" alt="transaction" src="https://github.com/user-attachments/assets/d712746c-f1f6-414c-957d-941e3d2c6f3b" />
 
 ### Dashboard & Analytics
 - **Visual Analytics** - Interactive charts and graphs
@@ -54,12 +55,14 @@ Monetra is a desktop financial tracking application built with Python that helps
 - **Max Daily Expense** - Track highest single-day spending
 - **Top Category** - Identify spending patterns
 - **Real-time Updates** - Dynamic data visualization
+<img width="1718" height="980" alt="dashboard" src="https://github.com/user-attachments/assets/42c34178-367c-4ceb-a02a-c08a3878a265" />
 
 ### Transaction History
 - **Searchable History** - View transactions by specific date
 - **Calendar Integration** - Easy date selection with calendar widget
 - **Pagination** - Browse through transaction records (10 per page)
 - **Transaction Logs** - Complete audit trail of all activities
+<img width="1725" height="983" alt="history" src="https://github.com/user-attachments/assets/3d96f8ff-1abd-4e0c-b082-38c47b4e6847" />
 
 ## 🛠️ Technologies
 
@@ -203,6 +206,7 @@ The application uses SQLite with the following main tables:
 - action
 - timestamp
 ```
+![schema](https://github.com/user-attachments/assets/c53ad4a3-5aeb-4ee2-b252-a95c4098a14e)
 
 ## 🔒 Security
 
@@ -248,7 +252,7 @@ For questions or support, please contact the development team.
 ## 🙏 Acknowledgments
 
 - Built with Python and Tkinter
-- Icons and images from various sources
+- Icons and images from various sources and some of them is self-made
 - Inspired by personal finance management needs
 
 ---
