@@ -15,6 +15,7 @@ Monetra is a desktop financial tracking application built with Python that helps
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- [Application Flow](#application-flow)
 - [Database Schema](#database-schema)
 - [Screenshots](#screenshots)
 - [Security](#security)
@@ -177,8 +178,13 @@ Monetra/
 ├── the_base.db                # SQLite database (auto-generated)
 └── README.md                  # This file
 ```
+## 🔄 Application Flow
+
+The diagram below shows the logic and navigation of Monetra:
 
 ## 🗄️ Database Schema
+View the database design in this presentation:  
+[Database Presentation](https://www.canva.com/design/DAG9EV9C9aI/FdXoCRqGLqvD2R_qhHxLog/edit?utm_content=DAG9EV9C9aI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 The application uses SQLite with the following main tables:
 
