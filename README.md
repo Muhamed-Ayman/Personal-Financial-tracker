@@ -252,9 +252,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## 📧 Contact
-
-For questions or support, please contact the development team.
-
+Ahmed Hossam Saeed Mohamed                ahmed.gabr.me@gmail.com
+Mohamed Ayman Abd-elhakim Ibrahim         mohammed.a.ibrahim@gmail.com
+Ibrahim Mohamed Mousa Mohamed Hussein     ibrahimmohamed22008@gmail.com
 ## 🙏 Acknowledgments
 
 - Built with Python and Tkinter
