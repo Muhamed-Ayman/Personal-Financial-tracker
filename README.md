@@ -252,9 +252,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## 📧 Contact
-Ahmed Hossam Saeed Mohamed                ahmed.gabr.me@gmail.com
-Mohamed Ayman Abd-elhakim Ibrahim         mohammed.a.ibrahim@gmail.com
-Ibrahim Mohamed Mousa Mohamed Hussein     ibrahimmohamed22008@gmail.com
+
+You can reach us via the following emails:
+
+| Name                                      | Email                                                |
+|------------------------------------------|------------------------------------------------------|
+| Ahmed Hossam Saeed Mohamed                | [ahmed.gabr.me@gmail.com](mailto:ahmed.gabr.me@gmail.com) |
+| Mohamed Ayman Abd-elhakim Ibrahim         | [mohammed.a.ibrahim@gmail.com](mailto:mohammed.a.ibrahim@gmail.com) |
+| Ibrahim Mohamed Mousa Mohamed Hussein     | [ibrahimmohamed22008@gmail.com](mailto:ibrahimmohamed22008@gmail.com) |
+
 ## 🙏 Acknowledgments
 
 - Built with Python and Tkinter
