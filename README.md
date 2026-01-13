@@ -131,6 +131,11 @@ python Log_in_page.py
 2. **Verify Email**: Enter your email and verify with the OTP code sent
 3. **Create Account**: Set your username and password
 4. **Login**: Use your credentials to access the application
+### 🔄 Application Flow
+
+This flowchart outlines a login system process:
+
+<img width="760" height="857" alt="image" src="https://github.com/user-attachments/assets/1196b103-77cb-47a5-ad80-f5e2fc7d266d" />
 
 ### Adding Transactions
 
@@ -178,9 +183,7 @@ Monetra/
 ├── the_base.db                # SQLite database (auto-generated)
 └── README.md                  # This file
 ```
-## 🔄 Application Flow
 
-The diagram below shows the logic and navigation of Monetra:
 
 ## 🗄️ Database Schema
 View the database design in this presentation:  
